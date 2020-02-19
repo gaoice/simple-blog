@@ -1,0 +1,9 @@
+<?php
+/*
+以下文件包含数据库操作
+pageshow.php
+read.php
+bingimg.php
+console/index.php
+console/save.php
+*/

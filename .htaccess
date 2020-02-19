@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^(.+?)\.php/(.+)$ $1.php?c=$2
+</IfModule>
